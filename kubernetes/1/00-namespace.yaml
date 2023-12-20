@@ -2,8 +2,4 @@ kind: Namespace
 apiVersion: v1
 metadata:
   name: testing
----
-kind: Namespace
-apiVersion: v1
-metadata:
-  name: testing2
+
